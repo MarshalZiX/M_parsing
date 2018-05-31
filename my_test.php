@@ -27,7 +27,6 @@
    		{
             $kal[] = $value;
    		}
-   		// fck_soc
         file_put_contents('test.json', json_encode($kal, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT));
         ?>
     </body>
