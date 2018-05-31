@@ -27,6 +27,7 @@
    		{
             $kal[] = $value;
    		}
+        $a = 5;
         file_put_contents('test.json', json_encode($kal, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT));
         ?>
     </body>
