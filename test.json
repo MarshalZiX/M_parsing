@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Гостиная \"Оскар\"",
+        "price": "12 800",
+        "link": "/stenki_v_gostinuyu/gostinaya_oskar",
+        "size": "Размеры (Ш х В х Г): 2500 х 1920 х 455 мм.  Доступно 2 расцветки"
+    },
+    {
+        "name": "Гостиная \"Ибица\"",
+        "price": "7 100",
+        "link": "/stenki_v_gostinuyu/gostinaya_ibitsa",
+        "size": "Размеры (Ш х В х Г): 1780 х 1700 х 440 мм."
+    },
+    {
+        "name": "Гостиная \"Сидней\"",
+        "price": "9 580",
+        "link": "/stenki_v_gostinuyu/gostinaya_sidney",
+        "size": "Размеры (Ш х В х Г): 2270 х 1865 х 445 мм."
+    },
+    {
+        "name": "Гостиная \"Даурия\"",
+        "price": "18 500",
+        "link": "/stenki_v_gostinuyu/gostinaya_dauriya",
+        "size": "Размеры (Ш х В х Г): 2800 х 2020 х 495 мм.  Доступно 2 расцветки"
+    },
+    {
+        "name": "Гостиная №3 Без зеркала",
+        "price": "11 600",
+        "link": "/stenki_v_gostinuyu/gostinaya_№3_bez_zerkala",
+        "size": "Размер (Ш*В*Г): 2700*2100*540 мм"
+    },
+    {
+        "name": "Гостиная №3",
+        "price": "12 900",
+        "link": "/stenki_v_gostinuyu/gostinaya_№3",
+        "size": "Размер (Ш*В*Г): 2700*2100*540 мм"
+    },
+    {
+        "name": "Гостиная №4",
+        "price": "17 710",
+        "link": "/stenki_v_gostinuyu/gostinaya_№4",
+        "size": "Размеры (Ш*В*Г):3400*2100*560 мм"
+    },
+    {
+        "name": "Гостиная Фиджи",
+        "price": "11 393",
+        "link": "/gostinaya_fidji",
+        "size": "Габариты:(Ш*В*Г) 2400*2050*446 мм"
+    },
+    {
+        "name": "Тумба TV (Стиль)",
+        "price": "3 590",
+        "link": "/stenki_v_gostinuyu/tumba_tv_(stil)",
+        "size": "Размеры (Ш х В х Г): 1200 х 420 х 470 мм."
+    },
+    {
+        "name": "Тумба TV-2А (CТИЛЬ)",
+        "price": "4 460",
+        "link": "/stenki_v_gostinuyu/tumba_tv-2a_(ctil)",
+        "size": "Размеры (Ш х В х Г): 1300 х 1445 х 385 мм."
+    },
+    {
+        "name": "Тумба TV-5 (Cтиль)",
+        "price": "3 000",
+        "link": "/stenki_v_gostinuyu/tumba_tv-5_(ctil)",
+        "size": "Размеры (Ш х В х Г): 1050 х 414 х 403 мм."
+    },
+    {
+        "name": "Гостиная Фигаро",
+        "price": "26 900",
+        "link": "/stenki_v_gostinuyu",
+        "size": "Размеры (ШхВхГ): 3000 х 2000 х 620 мм.  доступно 2 расцветки"
+    },
+    {
+        "name": "Гостиная №2",
+        "price": "11 990",
+        "link": "/katalog_tovarov/stenki_v_gostinuyu/gostinaya_№2",
+        "size": "Размеры (Ш х В х Г): 2700 х 1900 х 540 мм."
+    },
+    {
+        "name": "ТУМБА TV-6 (CТИЛЬ)",
+        "price": "3 800",
+        "link": "/tumba_tv-6_(ctil)",
+        "size": "Размеры (Ш х В х Г): 1600 х 1360 х 301 мм."
+    },
+    {
+        "name": "Гостиная \"Мираж-1\"",
+        "price": "5 550",
+        "link": "/gostinaya_miraj-1",
+        "size": "Размеры (Ш х В х Г): 1800 х 1700 х 350 мм."
+    },
+    {
+        "name": "Мини-стенка \"Лоя\"",
+        "price": "7 600",
+        "link": "/mini-stenka_loya",
+        "size": "Размеры (ШхВхГ): 1600 х 1530 х 404 мм."
+    },
+    {
+        "name": "Гостиная \"Престиж\"",
+        "price": "10 800",
+        "link": "/stenki_v_gostinuyu/gostinaya_prestij",
+        "size": "Размеры (Ш х В х Г): 2700 х 1960 х 400 мм.  Доступно 2 расцветки"
+    },
+    {
+        "name": "Гостиная \"Премьер\"",
+        "price": "23 100",
+        "link": "/stenki_v_gostinuyu/gostinaya_premer",
+        "size": "Размеры (Ш х В х Г): 3400 х 2100 х 580 мм.  Доступно 2 расцветки"
+    },
+    {
+        "name": "Гостиная \"Коста МДФ\"",
+        "price": "20 013",
+        "link": "/gostinaya_kosta_mdf",
+        "size": "Размеры (ШхВхГ): 3200 х 2000 х 574 мм."
+    },
+    {
+        "name": "Гостиная \"Милано\" Комплект 1",
+        "price": "29 050",
+        "link": "/gostinaya_milano_komplekt_1",
+        "size": "Размеры (Ш х В х Г): 3010 х 2160 х 573 мм."
+    },
+    {
+        "name": "Стенка \"Грей\"",
+        "price": "8 600",
+        "link": "/stenki_v_gostinuyu/stenka_grey",
+        "size": "Размеры (ШхВхГ): 1954 х 1757 х 314 мм."
+    },
+    {
+        "name": "Гостиная \"Милано\" Комплект 2",
+        "price": "27 500",
+        "link": "/gostinaya_milano_komplekt_2",
+        "size": "Размеры (Ш х В х Г): 2484 х 2160 х 573 мм."
+    },
+    {
+        "name": "Мини-стенка \"Лаура\"",
+        "price": "5 400",
+        "link": "/mini-stenka_laura",
+        "size": "Размеры (ШхВхГ): 1400 х 1552 х 374 мм."
+    },
+    {
+        "name": "Гостиная \"Дакар\"",
+        "price": "10 250",
+        "link": "/gostinaya_dakar",
+        "size": "Размеры (ШхВхГ): 2550 х 2050 х 520 мм."
+    }
+]
