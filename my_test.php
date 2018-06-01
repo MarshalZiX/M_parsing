@@ -25,9 +25,9 @@
 
     	foreach (get_info('http://mebel-son.ru/katalog_tovarov/stenki_v_gostinuyu/requestParams/page/2') as $key => $value)
    		{
-            $kal[] = $value;
+            $products[] = $value;
    		}
-        file_put_contents('test.json', json_encode($kal, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT));
+        file_put_contents('test.json', json_encode($products, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT));
         ?>
     </body>
 </html>
